@@ -1,0 +1,949 @@
+{
+	"categories":[
+                  {
+                    "category_id":"2741",
+                    "category_name":"Tattoo Tribal",
+                    "category_thumbnail":"1.png",
+                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                    "file_extension": "png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                              "anime_id":"37",
+                              "anime_name":"Abstract",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"22",
+                              "anime_name":"Angel Wings",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Chinese Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"39",
+                              "anime_name":"Clock",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"32",
+                              "anime_name":"Cross",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"7",
+                              "anime_name":"Deer",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"34",
+                              "anime_name":"Deer",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"9",
+                              "anime_name":"Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"33",
+                              "anime_name":"Dragons",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"8",
+                              "anime_name":"Eagle",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"28",
+                              "anime_name":"Egyptian Ankh",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id":"41",
+                              "anime_name":"Ethno",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"26",
+                              "anime_name":"Eye",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id":"24",
+                              "anime_name":"Eye Wings",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Fish #1",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"16",
+                              "anime_name":"Fish #2",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"17",
+                              "anime_name":"Flying Dragon",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"21",
+                              "anime_name":"Goat",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id":"19",
+                              "anime_name":"Growling Tiger",
+                              "anime_step":34
+                              },
+                              {
+                              "anime_id":"38",
+                              "anime_name":"Heart",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"10",
+                              "anime_name":"Lion",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"40",
+                              "anime_name":"Mandala",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"23",
+                              "anime_name":"Mystic Sign",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id":"42",
+                              "anime_name":"Pokemon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"13",
+                              "anime_name":"Roaring Lion",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"27",
+                              "anime_name":"Rose",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id":"35",
+                              "anime_name":"Rose",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"25",
+                              "anime_name":"Sea Horse",
+                              "anime_step":30
+                              },
+                              {
+                              "anime_id":"36",
+                              "anime_name":"Sea Horse",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"18",
+                              "anime_name":"Shark",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id":"30",
+                              "anime_name":"Treble Clef",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"1",
+                              "anime_name":"Tribal Tattoo #1",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Tribal Tattoo #2",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"6",
+                              "anime_name":"Tribal Tattoo #3",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"11",
+                              "anime_name":"Tribal Tattoo #4",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"12",
+                              "anime_name":"Tribal Tattoo #5",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"29",
+                              "anime_name":"Trible Man",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"15",
+                              "anime_name":"Ugly Dragon",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id":"14",
+                              "anime_name":"Wolf #1",
+                              "anime_step":28
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Wolf #2/",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"31",
+                              "anime_name":"Wolf And Rose",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"43",
+                              "anime_name":"Zodiac",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"20",
+                              "anime_name":"Zombie Skull",
+                              "anime_step":14
+                              }
+                              ]
+                  },
+                  {
+                  "category_id":"2742",
+                  "category_name":"Tattoo Skulls",
+                  "category_thumbnail":"2.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                  "file_extension": "png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Alien Skull",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Angry Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Bone Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Bulldog Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Card's Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Cowboy Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Cross Skull",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Flowered Skull",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Frankenstein Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Ghost Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Half Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Halloween Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Hello Kitty Skull 1",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Hello Kitty Skull 2",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Irish Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Jester Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Pirate Flag Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Pirate Skull",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Pirate Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Puma Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Punk Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Rider Skull",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Scary Skull",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Simple Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Skull",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Skull With Blades",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Skull With Bones",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Skull With Guitars",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Skull with nails",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Skull With Snake",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Sun Skull",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Trible Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Triple Skull",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Vampire Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Viking Skull",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Warrior Skull",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Wings Skull",
+                            "anime_step":10
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"2743",
+                  "category_name":"Tattoo Designs",
+                  "category_thumbnail":"3.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                  "file_extension": "png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Berry",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Bird",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Branch",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Butterfly",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Butterfly Easy",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Butterfly Hard",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"31",
+                            "anime_name":"Cat",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"35",
+                            "anime_name":"Cat On The Moon",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Colibri",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Dream Cather",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"37",
+                            "anime_name":"Feather",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Flower",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"29",
+                            "anime_name":"Flower Feather",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Heart and Bubbles",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Heart and Flowers",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Hieroglyph Kanji Angel",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Hieroglyph Kanji Beauty",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Hieroglyph Kanji Crazy",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"36",
+                            "anime_name":"Key",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Lizard",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Mandala",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Moon",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Phoenix Bird",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Rose",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"34",
+                            "anime_name":"Roses",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Roses and Heart",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Scorpion",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Seahorse",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Stars and Heart",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Stars Tattoo #1",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Stars Tattoo #2",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"28",
+                            "anime_name":"Treble Clef",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"30",
+                            "anime_name":"Umbrella",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"33",
+                            "anime_name":"Wing",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Wings",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Wolf",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"32",
+                            "anime_name":"Yin-Yang Mandala",
+                            "anime_step":7
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"2744",
+                  "category_name":"Tattoo Fonts",
+                  "category_thumbnail":"4.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                  "file_extension": "png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Aut Vincere Aut Mori",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Born To Be A Star",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Forever Young",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Fortus Fortuna Adjuvat",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Fragile Like A Feather",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Free Yourself",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Freedom in Arabian",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"God in Arabian",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Happiness",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Life Goes On",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Memento Mori",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Morior Invictus",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"No Fear",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Nothing Lasts Forever",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"One Life, One Love",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Only God",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Stay True",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Telle Quelle",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"The Most Dangerous",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Veni Vidi Vici",
+                            "anime_step":7
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"2745",
+                  "category_name":"Tattoo Flowers",
+                  "category_thumbnail":"5.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                  "file_extension": "png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Abstract Lotus",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Daisy Chain",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Daisy",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Dandelion",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Flower Design",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Lotus Realistic",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Lotus",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Old School Flower",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Old School Design",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Orchid Design",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Orchid",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Peony",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Peonies",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Rose Realistic",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Rose Design",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Rose Black",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Rose and Key",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Sakura",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Tattoo Flower",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Tribal Clover",
+                            "anime_step":8
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"2746",
+                  "category_name":"Tattoo Henna",
+                  "category_thumbnail":"6.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",
+                  "file_extension": "png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Mehndi Element 1",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Mehndi Element 2/",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Mehndi Leaf",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Mehndi Element 3",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Mehndi Element 4",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Mehndi Flower 1",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Mehndi Element 5",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Mehndi Element 6",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Mehndi Flower 2",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Mehndi Element 7",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Mehndi Element 8",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Mehndi Element 9",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Mehndi Element 10",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Mehndi Star",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Mehndi Heart",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Mehndi Element 11",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Mehndi Element 12",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Mehndi Swan",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Mehndi Firebird",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Mehndi Element 13",
+                            "anime_step":9
+                            }
+                            ]
+                  }
+                  ]
+}

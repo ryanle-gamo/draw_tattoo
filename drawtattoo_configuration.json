@@ -4,7 +4,7 @@
     "is_admob_in_grid":true,
     "is_admob":true,
     "isShowAfterSeconds":true,
-    "version":"ALPHA",
+    "version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/draw_tattoo_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/draw_tattoo_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/",

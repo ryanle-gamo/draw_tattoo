@@ -1,6 +1,6 @@
 {
-"latest_version": "2.2.0",
-"is_testing": true,
+"latest_version": "2.2.1",
+"is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/draw_tattoo_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/draw_tattoo/master/draw_tattoo_category_alpha.json",
@@ -8,5 +8,5 @@
 "appstore_url": "http://itunes.apple.com/app/id1076072836",
   "stop_step_index_at":3,
   "is_idfa_enabled":true,
-  "isDetailAdsFloat":false
+  "isDetailAdsFloat":true
 }
